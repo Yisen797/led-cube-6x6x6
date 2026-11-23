@@ -1,0 +1,6294 @@
+PROTEL NETLIST 2.0
+[
+DESIGNATOR
+U1
+FOOTPRINT
+SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL
+PARTTYPE
+74HCT595D,118
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge21
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+74HCT595D,118
+Designator
+U1
+Device
+74HCT595D,118
+LCSC Part Name
+
+Supplier Part
+74HCT595D,118.1
+Manufacturer
+Nexperia(安世)
+Manufacturer Part
+74HCT595D,118
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27
+Function
+
+Voltage - Supply
+
+Clock Frequency
+
+Number of Elements
+
+Output Type
+
+Series
+
+Pd - Power Dissipation
+
+Propagation Delay
+
+Output Current
+
+Resolution
+
+Input Type
+
+Current - Output Low(IOL)
+
+Current - Output High(IOH)
+
+Operating Temperature
+
+Features
+
+Name
+74HCT595D,118
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+74HCT595
+
+*
+]
+[
+DESIGNATOR
+U2
+FOOTPRINT
+SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL
+PARTTYPE
+74HCT595D,118
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge22
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+74HCT595D,118
+Designator
+U2
+Device
+74HCT595D,118
+LCSC Part Name
+
+Supplier Part
+74HCT595D,118.1
+Manufacturer
+Nexperia(安世)
+Manufacturer Part
+74HCT595D,118
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27
+Function
+
+Voltage - Supply
+
+Clock Frequency
+
+Number of Elements
+
+Output Type
+
+Series
+
+Pd - Power Dissipation
+
+Propagation Delay
+
+Output Current
+
+Resolution
+
+Input Type
+
+Current - Output Low(IOL)
+
+Current - Output High(IOH)
+
+Operating Temperature
+
+Features
+
+Name
+74HCT595D,118
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+74HCT595
+
+*
+]
+[
+DESIGNATOR
+U3
+FOOTPRINT
+SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL
+PARTTYPE
+74HCT595D,118
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge23
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+74HCT595D,118
+Designator
+U3
+Device
+74HCT595D,118
+LCSC Part Name
+
+Supplier Part
+74HCT595D,118.1
+Manufacturer
+Nexperia(安世)
+Manufacturer Part
+74HCT595D,118
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27
+Function
+
+Voltage - Supply
+
+Clock Frequency
+
+Number of Elements
+
+Output Type
+
+Series
+
+Pd - Power Dissipation
+
+Propagation Delay
+
+Output Current
+
+Resolution
+
+Input Type
+
+Current - Output Low(IOL)
+
+Current - Output High(IOH)
+
+Operating Temperature
+
+Features
+
+Name
+74HCT595D,118
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+74HCT595
+
+*
+]
+[
+DESIGNATOR
+U4
+FOOTPRINT
+SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL
+PARTTYPE
+74HCT595D,118
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge24
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+74HCT595D,118
+Designator
+U4
+Device
+74HCT595D,118
+LCSC Part Name
+
+Supplier Part
+74HCT595D,118.1
+Manufacturer
+Nexperia(安世)
+Manufacturer Part
+74HCT595D,118
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27
+Function
+
+Voltage - Supply
+
+Clock Frequency
+
+Number of Elements
+
+Output Type
+
+Series
+
+Pd - Power Dissipation
+
+Propagation Delay
+
+Output Current
+
+Resolution
+
+Input Type
+
+Current - Output Low(IOL)
+
+Current - Output High(IOH)
+
+Operating Temperature
+
+Features
+
+Name
+74HCT595D,118
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+74HCT595
+
+*
+]
+[
+DESIGNATOR
+U5
+FOOTPRINT
+SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL
+PARTTYPE
+74HCT595D,118
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge25
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+74HCT595D,118
+Designator
+U5
+Device
+74HCT595D,118
+LCSC Part Name
+
+Supplier Part
+74HCT595D,118.1
+Manufacturer
+Nexperia(安世)
+Manufacturer Part
+74HCT595D,118
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27
+Function
+
+Voltage - Supply
+
+Clock Frequency
+
+Number of Elements
+
+Output Type
+
+Series
+
+Pd - Power Dissipation
+
+Propagation Delay
+
+Output Current
+
+Resolution
+
+Input Type
+
+Current - Output Low(IOL)
+
+Current - Output High(IOH)
+
+Operating Temperature
+
+Features
+
+Name
+74HCT595D,118
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+74HCT595
+
+*
+]
+[
+DESIGNATOR
+U6
+FOOTPRINT
+SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL
+PARTTYPE
+74HCT595D,118
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge26
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+74HCT595D,118
+Designator
+U6
+Device
+74HCT595D,118
+LCSC Part Name
+
+Supplier Part
+74HCT595D,118.1
+Manufacturer
+Nexperia(安世)
+Manufacturer Part
+74HCT595D,118
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27
+Function
+
+Voltage - Supply
+
+Clock Frequency
+
+Number of Elements
+
+Output Type
+
+Series
+
+Pd - Power Dissipation
+
+Propagation Delay
+
+Output Current
+
+Resolution
+
+Input Type
+
+Current - Output Low(IOL)
+
+Current - Output High(IOH)
+
+Operating Temperature
+
+Features
+
+Name
+74HCT595D,118
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+74HCT595
+
+*
+]
+[
+DESIGNATOR
+U7
+FOOTPRINT
+SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL
+PARTTYPE
+74HCT595D,118
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge27
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+74HCT595D,118
+Designator
+U7
+Device
+74HCT595D,118
+LCSC Part Name
+
+Supplier Part
+74HCT595D,118.1
+Manufacturer
+Nexperia(安世)
+Manufacturer Part
+74HCT595D,118
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27
+Function
+
+Voltage - Supply
+
+Clock Frequency
+
+Number of Elements
+
+Output Type
+
+Series
+
+Pd - Power Dissipation
+
+Propagation Delay
+
+Output Current
+
+Resolution
+
+Input Type
+
+Current - Output Low(IOL)
+
+Current - Output High(IOH)
+
+Operating Temperature
+
+Features
+
+Name
+74HCT595D,118
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+74HCT595
+
+*
+]
+[
+DESIGNATOR
+U8
+FOOTPRINT
+SOP-18_L11.6-W7.5-P1.27-LS10.3-BL
+PARTTYPE
+ULN2803
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge28
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+ULN2803_C2758014
+Designator
+U8
+Device
+ULN2803
+LCSC Part Name
+
+Supplier Part
+ULN2803_C2758014.1
+Manufacturer
+Siproin(上海矽朋)
+Manufacturer Part
+ULN2803
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOP-18_L11.5-W7.5-H2.5-LS10.3-P1.27
+number of channels
+
+Collector - Emitter Voltage VCEO
+
+Current - Collector(Ic)
+
+Voltage - Input(Max)
+
+Operating Temperature
+
+Output Leakage Current(Icex)
+
+Vce Saturation(VCE(sat))
+
+Input Current(on)
+
+Input Current(off)
+
+Voltage - Forward(Vf)
+
+Reverse Leakage Current (Ir)
+
+Input Capacitiance(Ci)
+
+Type
+
+Name
+ULN2803
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+ULN2803
+
+*
+]
+[
+DESIGNATOR
+R1
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge29
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R1
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R2
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge30
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R2
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R3
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge31
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R3
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R4
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge32
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R4
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R5
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge33
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R5
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R6
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge34
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R6
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+U9
+FOOTPRINT
+SOP-18_L11.6-W7.5-P1.27-LS10.3-BL
+PARTTYPE
+ULN2803
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge35
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+ULN2803_C2758014
+Designator
+U9
+Device
+ULN2803
+LCSC Part Name
+
+Supplier Part
+ULN2803_C2758014.1
+Manufacturer
+Siproin(上海矽朋)
+Manufacturer Part
+ULN2803
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOP-18_L11.5-W7.5-H2.5-LS10.3-P1.27
+number of channels
+
+Collector - Emitter Voltage VCEO
+
+Current - Collector(Ic)
+
+Voltage - Input(Max)
+
+Operating Temperature
+
+Output Leakage Current(Icex)
+
+Vce Saturation(VCE(sat))
+
+Input Current(on)
+
+Input Current(off)
+
+Voltage - Forward(Vf)
+
+Reverse Leakage Current (Ir)
+
+Input Capacitiance(Ci)
+
+Type
+
+Name
+ULN2803
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+ULN2803
+
+*
+]
+[
+DESIGNATOR
+R7
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge36
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R7
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R8
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge37
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R8
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R9
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge38
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R9
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R10
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge39
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R10
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R11
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge40
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R11
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R12
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge41
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R12
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+U10
+FOOTPRINT
+SOP-18_L11.6-W7.5-P1.27-LS10.3-BL
+PARTTYPE
+ULN2803
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge42
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+ULN2803_C2758014
+Designator
+U10
+Device
+ULN2803
+LCSC Part Name
+
+Supplier Part
+ULN2803_C2758014.1
+Manufacturer
+Siproin(上海矽朋)
+Manufacturer Part
+ULN2803
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOP-18_L11.5-W7.5-H2.5-LS10.3-P1.27
+number of channels
+
+Collector - Emitter Voltage VCEO
+
+Current - Collector(Ic)
+
+Voltage - Input(Max)
+
+Operating Temperature
+
+Output Leakage Current(Icex)
+
+Vce Saturation(VCE(sat))
+
+Input Current(on)
+
+Input Current(off)
+
+Voltage - Forward(Vf)
+
+Reverse Leakage Current (Ir)
+
+Input Capacitiance(Ci)
+
+Type
+
+Name
+ULN2803
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+ULN2803
+
+*
+]
+[
+DESIGNATOR
+R13
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge43
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R13
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R14
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge44
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R14
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R15
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge45
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R15
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R16
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge46
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R16
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R17
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge47
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R17
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R18
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge48
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R18
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+U11
+FOOTPRINT
+SOP-18_L11.6-W7.5-P1.27-LS10.3-BL
+PARTTYPE
+ULN2803
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge49
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+ULN2803_C2758014
+Designator
+U11
+Device
+ULN2803
+LCSC Part Name
+
+Supplier Part
+ULN2803_C2758014.1
+Manufacturer
+Siproin(上海矽朋)
+Manufacturer Part
+ULN2803
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOP-18_L11.5-W7.5-H2.5-LS10.3-P1.27
+number of channels
+
+Collector - Emitter Voltage VCEO
+
+Current - Collector(Ic)
+
+Voltage - Input(Max)
+
+Operating Temperature
+
+Output Leakage Current(Icex)
+
+Vce Saturation(VCE(sat))
+
+Input Current(on)
+
+Input Current(off)
+
+Voltage - Forward(Vf)
+
+Reverse Leakage Current (Ir)
+
+Input Capacitiance(Ci)
+
+Type
+
+Name
+ULN2803
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+ULN2803
+
+*
+]
+[
+DESIGNATOR
+R19
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge50
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R19
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R20
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge51
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R20
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R21
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge52
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R21
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R22
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge53
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R22
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R23
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge54
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R23
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R24
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge55
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R24
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+U12
+FOOTPRINT
+SOP-18_L11.6-W7.5-P1.27-LS10.3-BL
+PARTTYPE
+ULN2803
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge56
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+ULN2803_C2758014
+Designator
+U12
+Device
+ULN2803
+LCSC Part Name
+
+Supplier Part
+ULN2803_C2758014.1
+Manufacturer
+Siproin(上海矽朋)
+Manufacturer Part
+ULN2803
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOP-18_L11.5-W7.5-H2.5-LS10.3-P1.27
+number of channels
+
+Collector - Emitter Voltage VCEO
+
+Current - Collector(Ic)
+
+Voltage - Input(Max)
+
+Operating Temperature
+
+Output Leakage Current(Icex)
+
+Vce Saturation(VCE(sat))
+
+Input Current(on)
+
+Input Current(off)
+
+Voltage - Forward(Vf)
+
+Reverse Leakage Current (Ir)
+
+Input Capacitiance(Ci)
+
+Type
+
+Name
+ULN2803
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+ULN2803
+
+*
+]
+[
+DESIGNATOR
+R25
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge57
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R25
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R26
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge58
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R26
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R27
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge59
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R27
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R28
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge60
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R28
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R29
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge61
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R29
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R30
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge62
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R30
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+U13
+FOOTPRINT
+SOP-18_L11.6-W7.5-P1.27-LS10.3-BL
+PARTTYPE
+ULN2803
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge63
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+ULN2803_C2758014
+Designator
+U13
+Device
+ULN2803
+LCSC Part Name
+
+Supplier Part
+ULN2803_C2758014.1
+Manufacturer
+Siproin(上海矽朋)
+Manufacturer Part
+ULN2803
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOP-18_L11.5-W7.5-H2.5-LS10.3-P1.27
+number of channels
+
+Collector - Emitter Voltage VCEO
+
+Current - Collector(Ic)
+
+Voltage - Input(Max)
+
+Operating Temperature
+
+Output Leakage Current(Icex)
+
+Vce Saturation(VCE(sat))
+
+Input Current(on)
+
+Input Current(off)
+
+Voltage - Forward(Vf)
+
+Reverse Leakage Current (Ir)
+
+Input Capacitiance(Ci)
+
+Type
+
+Name
+ULN2803
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+ULN2803
+
+*
+]
+[
+DESIGNATOR
+R31
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge64
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R31
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R32
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge65
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R32
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R33
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge66
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R33
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R34
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge67
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R34
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R35
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge68
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R35
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R36
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F330JT5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge69
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F330JT5E
+Designator
+R36
+Device
+0805W8F330JT5E
+LCSC Part Name
+
+Supplier Part
+0805W8F330JT5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F330JT5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+33Ω
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+33Ω
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+Q1
+FOOTPRINT
+SOT-23_L2.9-W1.3-P1.90-LS2.4-BR
+PARTTYPE
+AO3401A_C15127
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge72
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+AO3401A
+Designator
+Q1
+Device
+AO3401A_C15127
+LCSC Part Name
+
+Supplier Part
+AO3401A.1
+Manufacturer
+AOS
+Manufacturer Part
+AO3401A
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95
+Number
+
+Drain to Source Voltage
+
+Current - Continuous Drain(Id)
+
+RDS(on)
+
+Pd - Power Dissipation
+
+Gate Threshold Voltage (Vgs(th))
+
+Gate Charge(Qg)
+
+Input Capacitance(Ciss)
+
+Reverse Transfer Capacitance (Crss@Vds)
+
+Operating Temperature
+
+Type
+
+Output Capacitance(Coss)
+
+Name
+AO3401A
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+AO3401
+
+*
+]
+[
+DESIGNATOR
+Q2
+FOOTPRINT
+SOT-23_L2.9-W1.3-P1.90-LS2.4-BR
+PARTTYPE
+AO3401A_C15127
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge75
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+AO3401A
+Designator
+Q2
+Device
+AO3401A_C15127
+LCSC Part Name
+
+Supplier Part
+AO3401A.1
+Manufacturer
+AOS
+Manufacturer Part
+AO3401A
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95
+Number
+
+Drain to Source Voltage
+
+Current - Continuous Drain(Id)
+
+RDS(on)
+
+Pd - Power Dissipation
+
+Gate Threshold Voltage (Vgs(th))
+
+Gate Charge(Qg)
+
+Input Capacitance(Ciss)
+
+Reverse Transfer Capacitance (Crss@Vds)
+
+Operating Temperature
+
+Type
+
+Output Capacitance(Coss)
+
+Name
+AO3401A
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+AO3401
+
+*
+]
+[
+DESIGNATOR
+Q3
+FOOTPRINT
+SOT-23_L2.9-W1.3-P1.90-LS2.4-BR
+PARTTYPE
+AO3401A_C15127
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge78
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+AO3401A
+Designator
+Q3
+Device
+AO3401A_C15127
+LCSC Part Name
+
+Supplier Part
+AO3401A.1
+Manufacturer
+AOS
+Manufacturer Part
+AO3401A
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95
+Number
+
+Drain to Source Voltage
+
+Current - Continuous Drain(Id)
+
+RDS(on)
+
+Pd - Power Dissipation
+
+Gate Threshold Voltage (Vgs(th))
+
+Gate Charge(Qg)
+
+Input Capacitance(Ciss)
+
+Reverse Transfer Capacitance (Crss@Vds)
+
+Operating Temperature
+
+Type
+
+Output Capacitance(Coss)
+
+Name
+AO3401A
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+AO3401
+
+*
+]
+[
+DESIGNATOR
+Q4
+FOOTPRINT
+SOT-23_L2.9-W1.3-P1.90-LS2.4-BR
+PARTTYPE
+AO3401A_C15127
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge81
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+AO3401A
+Designator
+Q4
+Device
+AO3401A_C15127
+LCSC Part Name
+
+Supplier Part
+AO3401A.1
+Manufacturer
+AOS
+Manufacturer Part
+AO3401A
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95
+Number
+
+Drain to Source Voltage
+
+Current - Continuous Drain(Id)
+
+RDS(on)
+
+Pd - Power Dissipation
+
+Gate Threshold Voltage (Vgs(th))
+
+Gate Charge(Qg)
+
+Input Capacitance(Ciss)
+
+Reverse Transfer Capacitance (Crss@Vds)
+
+Operating Temperature
+
+Type
+
+Output Capacitance(Coss)
+
+Name
+AO3401A
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+AO3401
+
+*
+]
+[
+DESIGNATOR
+Q5
+FOOTPRINT
+SOT-23_L2.9-W1.3-P1.90-LS2.4-BR
+PARTTYPE
+AO3401A_C15127
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge84
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+AO3401A
+Designator
+Q5
+Device
+AO3401A_C15127
+LCSC Part Name
+
+Supplier Part
+AO3401A.1
+Manufacturer
+AOS
+Manufacturer Part
+AO3401A
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95
+Number
+
+Drain to Source Voltage
+
+Current - Continuous Drain(Id)
+
+RDS(on)
+
+Pd - Power Dissipation
+
+Gate Threshold Voltage (Vgs(th))
+
+Gate Charge(Qg)
+
+Input Capacitance(Ciss)
+
+Reverse Transfer Capacitance (Crss@Vds)
+
+Operating Temperature
+
+Type
+
+Output Capacitance(Coss)
+
+Name
+AO3401A
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+AO3401
+
+*
+]
+[
+DESIGNATOR
+Q6
+FOOTPRINT
+SOT-23_L2.9-W1.3-P1.90-LS2.4-BR
+PARTTYPE
+AO3401A_C15127
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge87
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+AO3401A
+Designator
+Q6
+Device
+AO3401A_C15127
+LCSC Part Name
+
+Supplier Part
+AO3401A.1
+Manufacturer
+AOS
+Manufacturer Part
+AO3401A
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95
+Number
+
+Drain to Source Voltage
+
+Current - Continuous Drain(Id)
+
+RDS(on)
+
+Pd - Power Dissipation
+
+Gate Threshold Voltage (Vgs(th))
+
+Gate Charge(Qg)
+
+Input Capacitance(Ciss)
+
+Reverse Transfer Capacitance (Crss@Vds)
+
+Operating Temperature
+
+Type
+
+Output Capacitance(Coss)
+
+Name
+AO3401A
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Value
+AO3401
+
+*
+]
+[
+DESIGNATOR
+C1
+FOOTPRINT
+C0805
+PARTTYPE
+CC0805KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge90
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+CC0805KRX7R9BB104
+Designator
+C1
+Device
+CC0805KRX7R9BB104
+LCSC Part Name
+
+Supplier Part
+CC0805KRX7R9BB104.1
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0805KRX7R9BB104
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+C0805_L2.0-W1.3-H1.3
+Value
+100nF
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Name
+100nF
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C2
+FOOTPRINT
+C0805
+PARTTYPE
+CC0805KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge91
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+CC0805KRX7R9BB104
+Designator
+C2
+Device
+CC0805KRX7R9BB104
+LCSC Part Name
+
+Supplier Part
+CC0805KRX7R9BB104.1
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0805KRX7R9BB104
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+C0805_L2.0-W1.3-H1.3
+Value
+100nF
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Name
+100nF
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C3
+FOOTPRINT
+C0805
+PARTTYPE
+CC0805KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge92
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+CC0805KRX7R9BB104
+Designator
+C3
+Device
+CC0805KRX7R9BB104
+LCSC Part Name
+
+Supplier Part
+CC0805KRX7R9BB104.1
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0805KRX7R9BB104
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+C0805_L2.0-W1.3-H1.3
+Value
+100nF
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Name
+100nF
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C4
+FOOTPRINT
+C0805
+PARTTYPE
+CC0805KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge93
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+CC0805KRX7R9BB104
+Designator
+C4
+Device
+CC0805KRX7R9BB104
+LCSC Part Name
+
+Supplier Part
+CC0805KRX7R9BB104.1
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0805KRX7R9BB104
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+C0805_L2.0-W1.3-H1.3
+Value
+100nF
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Name
+100nF
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C5
+FOOTPRINT
+C0805
+PARTTYPE
+CC0805KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge94
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+CC0805KRX7R9BB104
+Designator
+C5
+Device
+CC0805KRX7R9BB104
+LCSC Part Name
+
+Supplier Part
+CC0805KRX7R9BB104.1
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0805KRX7R9BB104
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+C0805_L2.0-W1.3-H1.3
+Value
+100nF
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Name
+100nF
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C6
+FOOTPRINT
+C0805
+PARTTYPE
+CC0805KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge95
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+CC0805KRX7R9BB104
+Designator
+C6
+Device
+CC0805KRX7R9BB104
+LCSC Part Name
+
+Supplier Part
+CC0805KRX7R9BB104.1
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0805KRX7R9BB104
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+C0805_L2.0-W1.3-H1.3
+Value
+100nF
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Name
+100nF
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C7
+FOOTPRINT
+C0805
+PARTTYPE
+CC0805KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge96
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+CC0805KRX7R9BB104
+Designator
+C7
+Device
+CC0805KRX7R9BB104
+LCSC Part Name
+
+Supplier Part
+CC0805KRX7R9BB104.1
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0805KRX7R9BB104
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+C0805_L2.0-W1.3-H1.3
+Value
+100nF
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Name
+100nF
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+H6
+FOOTPRINT
+HDR-TH_40P-P2.54-V-F-R2-C20-S2.54
+PARTTYPE
+HDR-M_2.54_2x20
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge97
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+H6
+Symbol
+HDR-F-2.54_2x20
+Device
+HDR-M_2.54_2x20
+Supplier Part
+HDR-F-2.54_2x20.1
+Supplier Footprint
+
+3D Model Title
+HDR-TH_40P-P2.54-F-LI-2X20P
+Description
+
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+
+Manufacturer Part
+
+Supplier
+
+Value
+COL 2x20
+
+*
+]
+[
+DESIGNATOR
+H7
+FOOTPRINT
+HDR-TH_6P-P2.54-V-M-1
+PARTTYPE
+HDR-M_2.54_1x6P
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge98
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+Header-Male-2.54_1x6
+Designator
+H7
+Device
+HDR-M_2.54_1x6P
+Supplier Part
+Header-Male-2.54_1x6.1
+Supplier Footprint
+
+3D Model Title
+HDR2.54-M-LI-1X6P
+Description
+
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+
+Manufacturer Part
+
+Supplier
+
+Value
+LAYER 1x6
+
+*
+]
+[
+DESIGNATOR
+RG1
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1001T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge99
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F1001T5E
+Designator
+RG1
+Device
+0805W8F1001T5E
+LCSC Part Name
+
+Supplier Part
+0805W8F1001T5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1001T5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+1kΩ
+Tolerance
+
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+
+Operating Temperature Range
+
+Name
+1kΩ
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+RP1
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E_C17414
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge100
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F1002T5E
+Designator
+RP1
+Device
+0805W8F1002T5E_C17414
+LCSC Part Name
+
+Supplier Part
+0805W8F1002T5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+10kΩ
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+10kΩ
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+RG2
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1001T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge101
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F1001T5E
+Designator
+RG2
+Device
+0805W8F1001T5E
+LCSC Part Name
+
+Supplier Part
+0805W8F1001T5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1001T5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+1kΩ
+Tolerance
+
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+
+Operating Temperature Range
+
+Name
+1kΩ
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+RP2
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E_C17414
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge102
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F1002T5E
+Designator
+RP2
+Device
+0805W8F1002T5E_C17414
+LCSC Part Name
+
+Supplier Part
+0805W8F1002T5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+10kΩ
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+10kΩ
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+RG3
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1001T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge103
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F1001T5E
+Designator
+RG3
+Device
+0805W8F1001T5E
+LCSC Part Name
+
+Supplier Part
+0805W8F1001T5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1001T5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+1kΩ
+Tolerance
+
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+
+Operating Temperature Range
+
+Name
+1kΩ
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+RP3
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E_C17414
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge104
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F1002T5E
+Designator
+RP3
+Device
+0805W8F1002T5E_C17414
+LCSC Part Name
+
+Supplier Part
+0805W8F1002T5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+10kΩ
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+10kΩ
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+RG4
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1001T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge105
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F1001T5E
+Designator
+RG4
+Device
+0805W8F1001T5E
+LCSC Part Name
+
+Supplier Part
+0805W8F1001T5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1001T5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+1kΩ
+Tolerance
+
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+
+Operating Temperature Range
+
+Name
+1kΩ
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+RP4
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E_C17414
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge106
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F1002T5E
+Designator
+RP4
+Device
+0805W8F1002T5E_C17414
+LCSC Part Name
+
+Supplier Part
+0805W8F1002T5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+10kΩ
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+10kΩ
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+RG5
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1001T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge107
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F1001T5E
+Designator
+RG5
+Device
+0805W8F1001T5E
+LCSC Part Name
+
+Supplier Part
+0805W8F1001T5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1001T5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+1kΩ
+Tolerance
+
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+
+Operating Temperature Range
+
+Name
+1kΩ
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+RP5
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E_C17414
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge108
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F1002T5E
+Designator
+RP5
+Device
+0805W8F1002T5E_C17414
+LCSC Part Name
+
+Supplier Part
+0805W8F1002T5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+10kΩ
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+10kΩ
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+RG6
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1001T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge109
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F1001T5E
+Designator
+RG6
+Device
+0805W8F1001T5E
+LCSC Part Name
+
+Supplier Part
+0805W8F1001T5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1001T5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+1kΩ
+Tolerance
+
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+
+Operating Temperature Range
+
+Name
+1kΩ
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+RP6
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E_C17414
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge110
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+0805W8F1002T5E
+Designator
+RP6
+Device
+0805W8F1002T5E_C17414
+LCSC Part Name
+
+Supplier Part
+0805W8F1002T5E.1
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+
+Value
+10kΩ
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+10kΩ
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+H8
+FOOTPRINT
+HDR-TH_15P-P2.54-V-M
+PARTTYPE
+HDR-M_2.54_1x15P
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge111
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+H8
+Symbol
+HDR_2.54-1x15P
+Device
+HDR-M_2.54_1x15P
+Supplier Part
+HDR_2.54-1x15P.1
+Supplier Footprint
+
+3D Model Title
+HDR-TH_15P-P2.54-M-LI-1X15P
+Description
+
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+
+Manufacturer Part
+
+Supplier
+
+
+*
+]
+[
+DESIGNATOR
+H9
+FOOTPRINT
+HDR-TH_15P-P2.54-V-M
+PARTTYPE
+HDR-M_2.54_1x15P
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge112
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+H9
+Symbol
+HDR_2.54-1x15P
+Device
+HDR-M_2.54_1x15P
+Supplier Part
+HDR_2.54-1x15P.1
+Supplier Footprint
+
+3D Model Title
+HDR-TH_15P-P2.54-M-LI-1X15P
+Description
+
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+
+Manufacturer Part
+
+Supplier
+
+
+*
+]
+[
+DESIGNATOR
+H5
+FOOTPRINT
+HDR-TH_2P-P2.54-V-M-1
+PARTTYPE
+HDR-M_2.54_1x2P
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge113
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+210S-1*2P L=11.6MMGold-plated black
+Designator
+H5
+Device
+HDR-M_2.54_1x2P
+Supplier Part
+210S-1*2P L=11.6MMGold-plated black.1
+Supplier Footprint
+
+Name
+
+3D Model Title
+HDR-M-2.54_1x2
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+
+Manufacturer Part
+
+Supplier
+
+
+*
+]
+(
+G0 
+U1-1 74HCT595D,118-Q1 Passive 
+RG1-1 0805W8F1001T5E-1 Input   
+)
+(
+G1 
+U1-2 74HCT595D,118-Q2 Passive 
+RG2-1 0805W8F1001T5E-1 Input   
+)
+(
+G2 
+U1-3 74HCT595D,118-Q3 Passive 
+RG3-1 0805W8F1001T5E-1 Input   
+)
+(
+G3 
+U1-4 74HCT595D,118-Q4 Passive 
+RG4-1 0805W8F1001T5E-1 Input   
+)
+(
+G4 
+U1-5 74HCT595D,118-Q5 Passive 
+RG5-1 0805W8F1001T5E-1 Input   
+)
+(
+G5 
+U1-6 74HCT595D,118-Q6 Passive 
+RG6-1 0805W8F1001T5E-1 Input   
+)
+(
+GND 
+U1-8 74HCT595D,118-GND Passive 
+U2-8 74HCT595D,118-GND Passive 
+U3-8 74HCT595D,118-GND Passive 
+U4-8 74HCT595D,118-GND Passive 
+U5-8 74HCT595D,118-GND Passive 
+U6-8 74HCT595D,118-GND Passive 
+U7-8 74HCT595D,118-GND Passive 
+U8-9 ULN2803-E Passive 
+U9-9 ULN2803-E Passive 
+U10-9 ULN2803-E Passive 
+U11-9 ULN2803-E Passive 
+U12-9 ULN2803-E Passive 
+U13-9 ULN2803-E Passive 
+C1-1 CC0805KRX7R9BB104-1 Passive 
+C2-1 CC0805KRX7R9BB104-1 Passive 
+C3-1 CC0805KRX7R9BB104-1 Passive 
+C4-1 CC0805KRX7R9BB104-1 Passive 
+C5-1 CC0805KRX7R9BB104-1 Passive 
+C6-1 CC0805KRX7R9BB104-1 Passive 
+C7-1 CC0805KRX7R9BB104-1 Passive 
+H8-14 HDR-M_2.54_1x15P-14 Input   
+H5-2 HDR-M_2.54_1x2P-2 Passive 
+)
+(
+LINK0 
+U1-9 74HCT595D,118-Q7S Passive 
+U2-14 74HCT595D,118-DS Passive 
+)
+(
+SRCLR 
+U1-10 74HCT595D,118-MR# Passive 
+U2-10 74HCT595D,118-MR# Passive 
+U3-10 74HCT595D,118-MR# Passive 
+U4-10 74HCT595D,118-MR# Passive 
+U5-10 74HCT595D,118-MR# Passive 
+U6-10 74HCT595D,118-MR# Passive 
+U7-10 74HCT595D,118-MR# Passive 
+H9-9 HDR-M_2.54_1x15P-9 Input   
+)
+(
+CLK 
+U1-11 74HCT595D,118-SHCP Passive 
+U2-11 74HCT595D,118-SHCP Passive 
+U3-11 74HCT595D,118-SHCP Passive 
+U4-11 74HCT595D,118-SHCP Passive 
+U5-11 74HCT595D,118-SHCP Passive 
+U6-11 74HCT595D,118-SHCP Passive 
+U7-11 74HCT595D,118-SHCP Passive 
+H9-7 HDR-M_2.54_1x15P-7 Input   
+)
+(
+LATCH 
+U1-12 74HCT595D,118-STCP Passive 
+U2-12 74HCT595D,118-STCP Passive 
+U3-12 74HCT595D,118-STCP Passive 
+U4-12 74HCT595D,118-STCP Passive 
+U5-12 74HCT595D,118-STCP Passive 
+U6-12 74HCT595D,118-STCP Passive 
+U7-12 74HCT595D,118-STCP Passive 
+H9-8 HDR-M_2.54_1x15P-8 Input   
+)
+(
+OE 
+U1-13 74HCT595D,118-OE# Passive 
+U2-13 74HCT595D,118-OE# Passive 
+U3-13 74HCT595D,118-OE# Passive 
+U4-13 74HCT595D,118-OE# Passive 
+U5-13 74HCT595D,118-OE# Passive 
+U6-13 74HCT595D,118-OE# Passive 
+U7-13 74HCT595D,118-OE# Passive 
+H9-10 HDR-M_2.54_1x15P-10 Input   
+)
+(
+DATA 
+U1-14 74HCT595D,118-DS Passive 
+H9-1 HDR-M_2.54_1x15P-1 Input   
+)
+(
+5V 
+U1-16 74HCT595D,118-VCC Passive 
+U2-16 74HCT595D,118-VCC Passive 
+U3-16 74HCT595D,118-VCC Passive 
+U4-16 74HCT595D,118-VCC Passive 
+U5-16 74HCT595D,118-VCC Passive 
+U6-16 74HCT595D,118-VCC Passive 
+U7-16 74HCT595D,118-VCC Passive 
+U8-10 ULN2803-COM Passive 
+U9-10 ULN2803-COM Passive 
+U10-10 ULN2803-COM Passive 
+U11-10 ULN2803-COM Passive 
+U12-10 ULN2803-COM Passive 
+U13-10 ULN2803-COM Passive 
+Q1-2 AO3401A_C15127-S Passive 
+Q2-2 AO3401A_C15127-S Passive 
+Q3-2 AO3401A_C15127-S Passive 
+Q4-2 AO3401A_C15127-S Passive 
+Q5-2 AO3401A_C15127-S Passive 
+Q6-2 AO3401A_C15127-S Passive 
+C1-2 CC0805KRX7R9BB104-2 Passive 
+C2-2 CC0805KRX7R9BB104-2 Passive 
+C3-2 CC0805KRX7R9BB104-2 Passive 
+C4-2 CC0805KRX7R9BB104-2 Passive 
+C5-2 CC0805KRX7R9BB104-2 Passive 
+C6-2 CC0805KRX7R9BB104-2 Passive 
+C7-2 CC0805KRX7R9BB104-2 Passive 
+RP1-1 0805W8F1002T5E_C17414-1 Input   
+RP2-1 0805W8F1002T5E_C17414-1 Input   
+RP3-1 0805W8F1002T5E_C17414-1 Input   
+RP4-1 0805W8F1002T5E_C17414-1 Input   
+RP5-1 0805W8F1002T5E_C17414-1 Input   
+RP6-1 0805W8F1002T5E_C17414-1 Input   
+H8-15 HDR-M_2.54_1x15P-15 Input   
+H5-1 HDR-M_2.54_1x2P-1 Passive 
+)
+(
+N00 
+U2-1 74HCT595D,118-Q1 Passive 
+U8-1 ULN2803-1B Passive 
+)
+(
+N01 
+U2-2 74HCT595D,118-Q2 Passive 
+U8-2 ULN2803-2B Passive 
+)
+(
+N02 
+U2-3 74HCT595D,118-Q3 Passive 
+U8-3 ULN2803-3B Passive 
+)
+(
+N03 
+U2-4 74HCT595D,118-Q4 Passive 
+U8-4 ULN2803-4B Passive 
+)
+(
+N04 
+U2-5 74HCT595D,118-Q5 Passive 
+U8-5 ULN2803-5B Passive 
+)
+(
+N05 
+U2-6 74HCT595D,118-Q6 Passive 
+U8-6 ULN2803-6B Passive 
+)
+(
+LINK1 
+U2-9 74HCT595D,118-Q7S Passive 
+U3-14 74HCT595D,118-DS Passive 
+)
+(
+N10 
+U3-1 74HCT595D,118-Q1 Passive 
+U9-1 ULN2803-1B Passive 
+)
+(
+N11 
+U3-2 74HCT595D,118-Q2 Passive 
+U9-2 ULN2803-2B Passive 
+)
+(
+N12 
+U3-3 74HCT595D,118-Q3 Passive 
+U9-3 ULN2803-3B Passive 
+)
+(
+N13 
+U3-4 74HCT595D,118-Q4 Passive 
+U9-4 ULN2803-4B Passive 
+)
+(
+N14 
+U3-5 74HCT595D,118-Q5 Passive 
+U9-5 ULN2803-5B Passive 
+)
+(
+N15 
+U3-6 74HCT595D,118-Q6 Passive 
+U9-6 ULN2803-6B Passive 
+)
+(
+LINK2 
+U3-9 74HCT595D,118-Q7S Passive 
+U4-14 74HCT595D,118-DS Passive 
+)
+(
+N20 
+U4-1 74HCT595D,118-Q1 Passive 
+U10-1 ULN2803-1B Passive 
+)
+(
+N21 
+U4-2 74HCT595D,118-Q2 Passive 
+U10-2 ULN2803-2B Passive 
+)
+(
+N22 
+U4-3 74HCT595D,118-Q3 Passive 
+U10-3 ULN2803-3B Passive 
+)
+(
+N23 
+U4-4 74HCT595D,118-Q4 Passive 
+U10-4 ULN2803-4B Passive 
+)
+(
+N24 
+U4-5 74HCT595D,118-Q5 Passive 
+U10-5 ULN2803-5B Passive 
+)
+(
+N25 
+U4-6 74HCT595D,118-Q6 Passive 
+U10-6 ULN2803-6B Passive 
+)
+(
+LINK3 
+U4-9 74HCT595D,118-Q7S Passive 
+U5-14 74HCT595D,118-DS Passive 
+)
+(
+N30 
+U5-1 74HCT595D,118-Q1 Passive 
+U11-1 ULN2803-1B Passive 
+)
+(
+N31 
+U5-2 74HCT595D,118-Q2 Passive 
+U11-2 ULN2803-2B Passive 
+)
+(
+N32 
+U5-3 74HCT595D,118-Q3 Passive 
+U11-3 ULN2803-3B Passive 
+)
+(
+N33 
+U5-4 74HCT595D,118-Q4 Passive 
+U11-4 ULN2803-4B Passive 
+)
+(
+N34 
+U5-5 74HCT595D,118-Q5 Passive 
+U11-5 ULN2803-5B Passive 
+)
+(
+N35 
+U5-6 74HCT595D,118-Q6 Passive 
+U11-6 ULN2803-6B Passive 
+)
+(
+LINK4 
+U5-9 74HCT595D,118-Q7S Passive 
+U6-14 74HCT595D,118-DS Passive 
+)
+(
+N40 
+U6-1 74HCT595D,118-Q1 Passive 
+U12-1 ULN2803-1B Passive 
+)
+(
+N41 
+U6-2 74HCT595D,118-Q2 Passive 
+U12-2 ULN2803-2B Passive 
+)
+(
+N42 
+U6-3 74HCT595D,118-Q3 Passive 
+U12-3 ULN2803-3B Passive 
+)
+(
+N43 
+U6-4 74HCT595D,118-Q4 Passive 
+U12-4 ULN2803-4B Passive 
+)
+(
+N44 
+U6-5 74HCT595D,118-Q5 Passive 
+U12-5 ULN2803-5B Passive 
+)
+(
+N45 
+U6-6 74HCT595D,118-Q6 Passive 
+U12-6 ULN2803-6B Passive 
+)
+(
+LINK5 
+U6-9 74HCT595D,118-Q7S Passive 
+U7-14 74HCT595D,118-DS Passive 
+)
+(
+N50 
+U7-1 74HCT595D,118-Q1 Passive 
+U13-1 ULN2803-1B Passive 
+)
+(
+N51 
+U7-2 74HCT595D,118-Q2 Passive 
+U13-2 ULN2803-2B Passive 
+)
+(
+N52 
+U7-3 74HCT595D,118-Q3 Passive 
+U13-3 ULN2803-3B Passive 
+)
+(
+N53 
+U7-4 74HCT595D,118-Q4 Passive 
+U13-4 ULN2803-4B Passive 
+)
+(
+N54 
+U7-5 74HCT595D,118-Q5 Passive 
+U13-5 ULN2803-5B Passive 
+)
+(
+N55 
+U7-6 74HCT595D,118-Q6 Passive 
+U13-6 ULN2803-6B Passive 
+)
+(
+M05 
+U8-13 ULN2803-6C Passive 
+R6-2 0805W8F330JT5E-2 Input   
+)
+(
+M04 
+U8-14 ULN2803-5C Passive 
+R5-2 0805W8F330JT5E-2 Input   
+)
+(
+M03 
+U8-15 ULN2803-4C Passive 
+R4-2 0805W8F330JT5E-2 Input   
+)
+(
+M02 
+U8-16 ULN2803-3C Passive 
+R3-2 0805W8F330JT5E-2 Input   
+)
+(
+M01 
+U8-17 ULN2803-2C Passive 
+R2-2 0805W8F330JT5E-2 Input   
+)
+(
+M00 
+U8-18 ULN2803-1C Passive 
+R1-2 0805W8F330JT5E-2 Input   
+)
+(
+C00 
+R1-1 0805W8F330JT5E-1 Input   
+H6-1 HDR-M_2.54_2x20-1 Input   
+)
+(
+C01 
+R2-1 0805W8F330JT5E-1 Input   
+H6-2 HDR-M_2.54_2x20-2 Input   
+)
+(
+C02 
+R3-1 0805W8F330JT5E-1 Input   
+H6-3 HDR-M_2.54_2x20-3 Input   
+)
+(
+C03 
+R4-1 0805W8F330JT5E-1 Input   
+H6-4 HDR-M_2.54_2x20-4 Input   
+)
+(
+C04 
+R5-1 0805W8F330JT5E-1 Input   
+H6-5 HDR-M_2.54_2x20-5 Input   
+)
+(
+C05 
+R6-1 0805W8F330JT5E-1 Input   
+H6-6 HDR-M_2.54_2x20-6 Input   
+)
+(
+M15 
+U9-13 ULN2803-6C Passive 
+R12-2 0805W8F330JT5E-2 Input   
+)
+(
+M14 
+U9-14 ULN2803-5C Passive 
+R11-2 0805W8F330JT5E-2 Input   
+)
+(
+M13 
+U9-15 ULN2803-4C Passive 
+R10-2 0805W8F330JT5E-2 Input   
+)
+(
+M12 
+U9-16 ULN2803-3C Passive 
+R9-2 0805W8F330JT5E-2 Input   
+)
+(
+M11 
+U9-17 ULN2803-2C Passive 
+R8-2 0805W8F330JT5E-2 Input   
+)
+(
+M10 
+U9-18 ULN2803-1C Passive 
+R7-2 0805W8F330JT5E-2 Input   
+)
+(
+C10 
+R7-1 0805W8F330JT5E-1 Input   
+H6-7 HDR-M_2.54_2x20-7 Input   
+)
+(
+C11 
+R8-1 0805W8F330JT5E-1 Input   
+H6-8 HDR-M_2.54_2x20-8 Input   
+)
+(
+C12 
+R9-1 0805W8F330JT5E-1 Input   
+H6-9 HDR-M_2.54_2x20-9 Input   
+)
+(
+C13 
+R10-1 0805W8F330JT5E-1 Input   
+H6-10 HDR-M_2.54_2x20-10 Input   
+)
+(
+C14 
+R11-1 0805W8F330JT5E-1 Input   
+H6-11 HDR-M_2.54_2x20-11 Input   
+)
+(
+C15 
+R12-1 0805W8F330JT5E-1 Input   
+H6-12 HDR-M_2.54_2x20-12 Input   
+)
+(
+M25 
+U10-13 ULN2803-6C Passive 
+R18-2 0805W8F330JT5E-2 Input   
+)
+(
+M24 
+U10-14 ULN2803-5C Passive 
+R17-2 0805W8F330JT5E-2 Input   
+)
+(
+M23 
+U10-15 ULN2803-4C Passive 
+R16-2 0805W8F330JT5E-2 Input   
+)
+(
+M22 
+U10-16 ULN2803-3C Passive 
+R15-2 0805W8F330JT5E-2 Input   
+)
+(
+M21 
+U10-17 ULN2803-2C Passive 
+R14-2 0805W8F330JT5E-2 Input   
+)
+(
+M20 
+U10-18 ULN2803-1C Passive 
+R13-2 0805W8F330JT5E-2 Input   
+)
+(
+C20 
+R13-1 0805W8F330JT5E-1 Input   
+H6-13 HDR-M_2.54_2x20-13 Input   
+)
+(
+C21 
+R14-1 0805W8F330JT5E-1 Input   
+H6-14 HDR-M_2.54_2x20-14 Input   
+)
+(
+C22 
+R15-1 0805W8F330JT5E-1 Input   
+H6-15 HDR-M_2.54_2x20-15 Input   
+)
+(
+C23 
+R16-1 0805W8F330JT5E-1 Input   
+H6-16 HDR-M_2.54_2x20-16 Input   
+)
+(
+C24 
+R17-1 0805W8F330JT5E-1 Input   
+H6-17 HDR-M_2.54_2x20-17 Input   
+)
+(
+C25 
+R18-1 0805W8F330JT5E-1 Input   
+H6-18 HDR-M_2.54_2x20-18 Input   
+)
+(
+M35 
+U11-13 ULN2803-6C Passive 
+R24-2 0805W8F330JT5E-2 Input   
+)
+(
+M34 
+U11-14 ULN2803-5C Passive 
+R23-2 0805W8F330JT5E-2 Input   
+)
+(
+M33 
+U11-15 ULN2803-4C Passive 
+R22-2 0805W8F330JT5E-2 Input   
+)
+(
+M32 
+U11-16 ULN2803-3C Passive 
+R21-2 0805W8F330JT5E-2 Input   
+)
+(
+M31 
+U11-17 ULN2803-2C Passive 
+R20-2 0805W8F330JT5E-2 Input   
+)
+(
+M30 
+U11-18 ULN2803-1C Passive 
+R19-2 0805W8F330JT5E-2 Input   
+)
+(
+C30 
+R19-1 0805W8F330JT5E-1 Input   
+H6-19 HDR-M_2.54_2x20-19 Input   
+)
+(
+C31 
+R20-1 0805W8F330JT5E-1 Input   
+H6-20 HDR-M_2.54_2x20-20 Input   
+)
+(
+C32 
+R21-1 0805W8F330JT5E-1 Input   
+H6-21 HDR-M_2.54_2x20-21 Input   
+)
+(
+C33 
+R22-1 0805W8F330JT5E-1 Input   
+H6-22 HDR-M_2.54_2x20-22 Input   
+)
+(
+C34 
+R23-1 0805W8F330JT5E-1 Input   
+H6-23 HDR-M_2.54_2x20-23 Input   
+)
+(
+C35 
+R24-1 0805W8F330JT5E-1 Input   
+H6-24 HDR-M_2.54_2x20-24 Input   
+)
+(
+M45 
+U12-13 ULN2803-6C Passive 
+R30-2 0805W8F330JT5E-2 Input   
+)
+(
+M44 
+U12-14 ULN2803-5C Passive 
+R29-2 0805W8F330JT5E-2 Input   
+)
+(
+M43 
+U12-15 ULN2803-4C Passive 
+R28-2 0805W8F330JT5E-2 Input   
+)
+(
+M42 
+U12-16 ULN2803-3C Passive 
+R27-2 0805W8F330JT5E-2 Input   
+)
+(
+M41 
+U12-17 ULN2803-2C Passive 
+R26-2 0805W8F330JT5E-2 Input   
+)
+(
+M40 
+U12-18 ULN2803-1C Passive 
+R25-2 0805W8F330JT5E-2 Input   
+)
+(
+C40 
+R25-1 0805W8F330JT5E-1 Input   
+H6-25 HDR-M_2.54_2x20-25 Input   
+)
+(
+C41 
+R26-1 0805W8F330JT5E-1 Input   
+H6-26 HDR-M_2.54_2x20-26 Input   
+)
+(
+C42 
+R27-1 0805W8F330JT5E-1 Input   
+H6-27 HDR-M_2.54_2x20-27 Input   
+)
+(
+C43 
+R28-1 0805W8F330JT5E-1 Input   
+H6-28 HDR-M_2.54_2x20-28 Input   
+)
+(
+C44 
+R29-1 0805W8F330JT5E-1 Input   
+H6-29 HDR-M_2.54_2x20-29 Input   
+)
+(
+C45 
+R30-1 0805W8F330JT5E-1 Input   
+H6-30 HDR-M_2.54_2x20-30 Input   
+)
+(
+M55 
+U13-13 ULN2803-6C Passive 
+R36-2 0805W8F330JT5E-2 Input   
+)
+(
+M54 
+U13-14 ULN2803-5C Passive 
+R35-2 0805W8F330JT5E-2 Input   
+)
+(
+M53 
+U13-15 ULN2803-4C Passive 
+R34-2 0805W8F330JT5E-2 Input   
+)
+(
+M52 
+U13-16 ULN2803-3C Passive 
+R33-2 0805W8F330JT5E-2 Input   
+)
+(
+M51 
+U13-17 ULN2803-2C Passive 
+R32-2 0805W8F330JT5E-2 Input   
+)
+(
+M50 
+U13-18 ULN2803-1C Passive 
+R31-2 0805W8F330JT5E-2 Input   
+)
+(
+C50 
+R31-1 0805W8F330JT5E-1 Input   
+H6-31 HDR-M_2.54_2x20-31 Input   
+)
+(
+C51 
+R32-1 0805W8F330JT5E-1 Input   
+H6-32 HDR-M_2.54_2x20-32 Input   
+)
+(
+C52 
+R33-1 0805W8F330JT5E-1 Input   
+H6-33 HDR-M_2.54_2x20-33 Input   
+)
+(
+C53 
+R34-1 0805W8F330JT5E-1 Input   
+H6-34 HDR-M_2.54_2x20-34 Input   
+)
+(
+C54 
+R35-1 0805W8F330JT5E-1 Input   
+H6-35 HDR-M_2.54_2x20-35 Input   
+)
+(
+C55 
+R36-1 0805W8F330JT5E-1 Input   
+H6-36 HDR-M_2.54_2x20-36 Input   
+)
+(
+L0 
+Q1-3 AO3401A_C15127-D Passive 
+H7-1 HDR-M_2.54_1x6P-1 Input   
+)
+(
+GATE0 
+Q1-1 AO3401A_C15127-G Passive 
+RG1-2 0805W8F1001T5E-2 Input   
+RP1-2 0805W8F1002T5E_C17414-2 Input   
+)
+(
+L1 
+Q2-3 AO3401A_C15127-D Passive 
+H7-2 HDR-M_2.54_1x6P-2 Input   
+)
+(
+GATE1 
+Q2-1 AO3401A_C15127-G Passive 
+RG2-2 0805W8F1001T5E-2 Input   
+RP2-2 0805W8F1002T5E_C17414-2 Input   
+)
+(
+L2 
+Q3-3 AO3401A_C15127-D Passive 
+H7-3 HDR-M_2.54_1x6P-3 Input   
+)
+(
+GATE2 
+Q3-1 AO3401A_C15127-G Passive 
+RG3-2 0805W8F1001T5E-2 Input   
+RP3-2 0805W8F1002T5E_C17414-2 Input   
+)
+(
+L3 
+Q4-3 AO3401A_C15127-D Passive 
+H7-4 HDR-M_2.54_1x6P-4 Input   
+)
+(
+GATE3 
+Q4-1 AO3401A_C15127-G Passive 
+RG4-2 0805W8F1001T5E-2 Input   
+RP4-2 0805W8F1002T5E_C17414-2 Input   
+)
+(
+L4 
+Q5-3 AO3401A_C15127-D Passive 
+H7-5 HDR-M_2.54_1x6P-5 Input   
+)
+(
+GATE4 
+Q5-1 AO3401A_C15127-G Passive 
+RG5-2 0805W8F1001T5E-2 Input   
+RP5-2 0805W8F1002T5E_C17414-2 Input   
+)
+(
+L5 
+Q6-3 AO3401A_C15127-D Passive 
+H7-6 HDR-M_2.54_1x6P-6 Input   
+)
+(
+GATE5 
+Q6-1 AO3401A_C15127-G Passive 
+RG6-2 0805W8F1001T5E-2 Input   
+RP6-2 0805W8F1002T5E_C17414-2 Input   
+)

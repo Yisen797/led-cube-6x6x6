@@ -1,0 +1,22 @@
+digraph cube {
+  graph [rankdir=LR, fontname="Microsoft YaHei", fontsize=13, nodesep=0.40, ranksep=0.70,
+         bgcolor="white", pad=0.25, splines=true];
+  node  [shape=box, style="rounded,filled", fontname="Microsoft YaHei", fontsize=11,
+         color="#2A78D6", fillcolor="#EAF2FF", penwidth=1.2, margin="0.16,0.10"];
+  edge  [fontname="Microsoft YaHei", fontsize=9, color="#5A6B85", arrowsize=0.7];
+
+  esp [label="ESP32 DevKit V1\n3.3V 逻辑\n输出 5 根控制线", fillcolor="#D9EAD3", color="#4E9A4E"];
+  drv [label="驱动部分（自行实现）\n7 × 74HCT595 级联 = 56 bit\n36 路列驱动 + 6 路层电源开关", fillcolor="#FFF4D6", color="#C99A2E"];
+  col [label="36 根竖直列线\n（LED 阴极）"];
+  lay [label="6 个水平层\n（LED 阳极）"];
+  cube [label="6 × 6 × 6 光立方\n216 只 F3 蓝光 LED\n20mm 间距 · 约 100mm 见方",
+        shape=box3d, style="filled", fillcolor="#FFE9B0", color="#C99A2E", fontsize=12];
+
+  esp -> drv [label="DATA / CLK / LATCH\n/SRCLR / OE"];
+  drv -> col [label="36 路 灌电流"];
+  drv -> lay [label="6 路 高边开关"];
+  col -> cube;
+  lay -> cube;
+
+  {rank=same; col; lay;}
+}
